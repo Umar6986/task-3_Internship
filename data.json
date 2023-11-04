@@ -1,0 +1,8 @@
+
+[
+  { "id": 1, "city": "Banglore", "category": "Category 1"},
+  { "id": 2, "city": "Mumbai", "category": "Category 2"},
+  { "id": 3, "city": "Ghaziabad", "category": "Category 3"},
+  { "id": 4, "city": "Saharanpur", "category": "Category 1"},
+  { "id": 5, "city": "Kolkata", "category": "Category 2"} 
+]  
